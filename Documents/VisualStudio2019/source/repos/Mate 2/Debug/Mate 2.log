@@ -1,0 +1,10 @@
+﻿  Mate 2.cpp
+C:\Users\55gus\source\repos\Mate 2\Mate 2.cpp(26,44): error C2065:  'X': identificador no declarado
+C:\Users\55gus\source\repos\Mate 2\Mate 2.cpp(26,46): error C2065:  'X': identificador no declarado
+C:\Users\55gus\source\repos\Mate 2\Mate 2.cpp(26,86): error C2065:  'X': identificador no declarado
+C:\Users\55gus\source\repos\Mate 2\Mate 2.cpp(47,16): warning C4244:  '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\55gus\source\repos\Mate 2\Mate 2.cpp(47,29): warning C4244:  '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\55gus\source\repos\Mate 2\Mate 2.cpp(47,42): warning C4244:  '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\55gus\source\repos\Mate 2\Mate 2.cpp(48,17): warning C4244:  '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\55gus\source\repos\Mate 2\Mate 2.cpp(49,20): warning C4244:  '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\55gus\source\repos\Mate 2\Mate 2.cpp(54,51): error C2143:  error de sintaxis: falta ')' delante de ';'

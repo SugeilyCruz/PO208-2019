@@ -1,0 +1,11 @@
+﻿  CLASE 1.cpp
+C:\Users\55gus\source\repos\CLASE 1\CLASE 1.cpp(19,15): error C2440:  '=': no se puede realizar la conversión de 'const char [3]' a 'int'
+C:\Users\55gus\source\repos\CLASE 1\CLASE 1.cpp(19,11): message :  No existe un contexto en el que sea posible realizar esta conversión
+C:\Users\55gus\source\repos\CLASE 1\CLASE 1.cpp(20,17): error C2440:  '=': no se puede realizar la conversión de 'const char [3]' a 'int'
+C:\Users\55gus\source\repos\CLASE 1\CLASE 1.cpp(20,13): message :  No existe un contexto en el que sea posible realizar esta conversión
+C:\Users\55gus\source\repos\CLASE 1\CLASE 1.cpp(22,10): warning C4477:  'scanf_s' : la cadena de formato '%i' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'int'
+C:\Users\55gus\source\repos\CLASE 1\CLASE 1.cpp(24,10): warning C4477:  'scanf_s' : la cadena de formato '%i' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'int'
+C:\Users\55gus\source\repos\CLASE 1\CLASE 1.cpp(26,10): warning C4477:  'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'int'
+C:\Users\55gus\source\repos\CLASE 1\CLASE 1.cpp(28,10): warning C4477:  'scanf_s' : la cadena de formato '%f' requiere un argumento de tipo 'float *', pero el argumento variádico 1 tiene el tipo 'double'
+C:\Users\55gus\source\repos\CLASE 1\CLASE 1.cpp(30,10): warning C4477:  'scanf_s' : la cadena de formato '%f' requiere un argumento de tipo 'float *', pero el argumento variádico 1 tiene el tipo 'double'
+C:\Users\55gus\source\repos\CLASE 1\CLASE 1.cpp(32,10): warning C4477:  'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'int'

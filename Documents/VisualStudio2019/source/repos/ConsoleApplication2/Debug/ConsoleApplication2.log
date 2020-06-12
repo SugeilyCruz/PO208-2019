@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\55gus\source\repos\ConsoleApplication2\ConsoleApplication2.cpp(9,11): warning C4101:  'k': variable local sin referencia
+C:\Users\55gus\source\repos\ConsoleApplication2\ConsoleApplication2.cpp(9,9): warning C4101:  'j': variable local sin referencia
+  ConsoleApplication2.vcxproj -> C:\Users\55gus\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe

@@ -1,0 +1,2 @@
+420122814
+con la ayuda de los programas anteriores y las nuevas técnicas que nos enseñó el profesor, puede elaborar un programa que pudiera calcular el siguiente día, tomando en cuenta los años bisiesto, lo que más se me complicó fue separa el ano en el que iba a aumentar un dia, tambien implemente if y else, otra de las cosas en las que me pude dar cuenta fue que las llaves son muy importantes, ya que delimitan la condicion que tu pusiste.

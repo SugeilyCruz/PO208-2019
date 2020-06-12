@@ -1,0 +1,10 @@
+﻿  Precision.cpp
+C:\Users\55gus\source\repos\Precision\Precision.cpp(10,1): warning C4326:  el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\55gus\source\repos\Precision\Precision.cpp(18,15): warning C4305:  '=': truncamiento de 'double' a 'float'
+C:\Users\55gus\source\repos\Precision\Precision.cpp(31,11): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\55gus\source\repos\Precision\Precision.cpp(32,12): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\55gus\source\repos\Precision\Precision.cpp(66,10): warning C4473:  "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\55gus\source\repos\Precision\Precision.cpp(66,10): message :  los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\55gus\source\repos\Precision\Precision.cpp(66,10): message :  el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\55gus\source\repos\Precision\Precision.cpp(66,10): message :  este argumento se utiliza como un tamaño de búfer
+  Precision.vcxproj -> C:\Users\55gus\source\repos\Precision\Debug\Precision.exe

@@ -1,0 +1,4 @@
+﻿  IMPUESTOS PYT7.cpp
+C:\Users\55gus\source\repos\IMPUESTOS PYT7\IMPUESTOS PYT7.cpp(20,25): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\55gus\source\repos\IMPUESTOS PYT7\IMPUESTOS PYT7.cpp(27,27): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+  IMPUESTOS PYT7.vcxproj -> C:\Users\55gus\source\repos\IMPUESTOS PYT7\Debug\IMPUESTOS PYT7.exe

@@ -1,0 +1,3 @@
+﻿  PRUEBAS.cpp
+C:\Users\55gus\source\repos\PRUEBAS\PRUEBAS.cpp(67,14): error C2440:  'inicializando': no se puede realizar la conversión de 'const char [2]' a 'char'
+C:\Users\55gus\source\repos\PRUEBAS\PRUEBAS.cpp(67,9): message :  No existe un contexto en el que sea posible realizar esta conversión

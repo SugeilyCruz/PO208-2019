@@ -1,0 +1,45 @@
+﻿  GEOMETRIA 1.cpp
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(9,31): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(30,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(75,19): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(75,62): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(88,19): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(88,62): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(124,20): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(124,63): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(137,20): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(137,63): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(170,21): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(170,64): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(183,21): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(183,64): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(225,20): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(225,63): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(238,20): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(238,63): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(275,22): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(275,65): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(288,22): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(288,65): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(323,23): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(323,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(336,23): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(336,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(369,24): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(369,67): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(382,24): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(382,67): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(426,21): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(426,64): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(439,21): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(439,64): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(472,22): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(472,65): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(485,22): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(485,65): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(517,23): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(517,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(530,23): warning C4552: ">=": el resultado de la expresión no se usa
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(530,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Users\55gus\source\repos\GEOMETRIA 1\GEOMETRIA 1.cpp(45,8): warning C4101: 'curvagraf': variable local sin referencia
+  GEOMETRIA 1.vcxproj -> E:\Users\55gus\source\repos\GEOMETRIA 1\Debug\GEOMETRIA 1.exe

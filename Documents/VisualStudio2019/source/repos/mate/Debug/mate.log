@@ -1,0 +1,2 @@
+﻿  mate.cpp
+C:\Users\55gus\source\repos\mate\mate.cpp(5,10): error C1083:  No se puede abrir el archivo incluir: 'graphics.h': No such file or directory

@@ -1,0 +1,6 @@
+﻿  CYP01.cpp
+C:\Users\55gus\source\repos\CYP01\CYP01.cpp(41,25): warning C4244:  '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\55gus\source\repos\CYP01\CYP01.cpp(43,25): warning C4244:  '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\55gus\source\repos\CYP01\CYP01.cpp(45,39): warning C4244:  '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\55gus\source\repos\CYP01\CYP01.cpp(47,39): warning C4244:  '=': conversión de 'float' a 'int'; posible pérdida de datos
+  CYP01.vcxproj -> C:\Users\55gus\source\repos\CYP01\Debug\CYP01.exe

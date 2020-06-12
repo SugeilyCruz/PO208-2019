@@ -1,0 +1,2 @@
+420122814
+En este programa pude reforzar los nuevos conocimientos adquiridos en clase, la parte que mas se me complico fue la sumatoria con los decimales, ya que los valores no salen o salian exactos, me di cuenta que tanto el while y el for sirven para lo mismo, tambien  me gusto mas utilizar el for ya que su estructura se me hace mas facil de entender.

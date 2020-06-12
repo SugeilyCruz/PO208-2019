@@ -1,0 +1,6 @@
+﻿  passwarod y valide el acceso.cpp
+C:\Users\55gus\source\repos\passwarod y valide el acceso\passwarod y valide el acceso.cpp(16,10): warning C4477:  'scanf_s' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'int'
+C:\Users\55gus\source\repos\passwarod y valide el acceso\passwarod y valide el acceso.cpp(16,10): message :  este argumento se utiliza por un especificador de conversión
+C:\Users\55gus\source\repos\passwarod y valide el acceso\passwarod y valide el acceso.cpp(16,10): warning C4477:  'scanf_s' : la cadena de formato '%s' requiere un argumento de tipo 'unsigned int', pero el argumento variádico 2 tiene el tipo 'char *'
+C:\Users\55gus\source\repos\passwarod y valide el acceso\passwarod y valide el acceso.cpp(16,10): message :  este argumento se utiliza como un tamaño de búfer
+  passwarod y valide el acceso.vcxproj -> C:\Users\55gus\source\repos\passwarod y valide el acceso\Debug\passwarod y valide el acceso.exe
